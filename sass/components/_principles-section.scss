@@ -26,13 +26,13 @@
   color: $titles-color;
 
   font-weight: 700;
-  font-size: 14px;
+  font-size: $main-font-size;
   line-height: 1.14;
   text-transform: uppercase;
 }
 
 .principles .text {
   margin-top: 10px;
-  font-size: 14px;
+  font-size: $main-font-size;
   line-height: 1.71;
 }
