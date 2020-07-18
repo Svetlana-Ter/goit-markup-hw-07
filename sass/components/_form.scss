@@ -187,7 +187,7 @@
 }
 
 .submit-button {
-  @extend .modal-button;
+  @extend %button;
 }
 
 .icon-close {

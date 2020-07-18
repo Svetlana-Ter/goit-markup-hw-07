@@ -209,7 +209,7 @@ img {
   overflow: hidden;
 }
 
-.modal-button, .subscribe-button {
+.subscribe-button {
   min-width: 200px;
   padding: 10px 29px;
   color: #ffffff;

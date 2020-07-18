@@ -74,7 +74,7 @@ footer > .flex-container {
 }
 
 .subscribe-button {
-  @extend .modal-button;
+  @extend %button;
   display: inline-flex;
   align-items: center;
 }
