@@ -546,6 +546,7 @@ footer .social-icon {
 
 .clients .link:hover, .clients .link:focus {
   border: 1px solid #2196f3;
+  border-radius: 4px;
 }
 
 .clients-icon {
@@ -892,9 +893,9 @@ footer > .flex-container {
   margin-right: 12px;
   background-color: inherit;
   border: 1px solid rgba(255, 255, 255, 0.3);
+  border-radius: 4px;
   -webkit-box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
           box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
-  border-radius: 4px;
   font-family: "Roboto", sans-serif;
   font-size: 16px;
   line-height: 1.25;

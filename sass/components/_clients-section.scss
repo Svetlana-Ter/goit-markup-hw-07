@@ -13,14 +13,13 @@
 
   width: 170px;
   height: 90px;
-  border: 1px solid $icon-color;
-  border-radius: 4px;
+  @include bordered($icon-color);
 
   transition: border $time $time-function;
 
   &:hover,
   &:focus {
-    border: 1px solid $accent-color;
+    @include bordered($accent-color);
   }
 }
 
