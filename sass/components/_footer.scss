@@ -33,7 +33,7 @@ footer > .flex-container {
   display: inline-block;
   margin-top: 9px;
 
-  color: rgba(255, 255, 255, 0.6);
+  color: $grey-color;
 }
 
 .join > .title,
@@ -64,11 +64,11 @@ footer > .flex-container {
   line-height: 1.25;
   letter-spacing: 0.03em;
 
-  color: rgba(255, 255, 255, 0.6);
+  color: $grey-color;
 
   &::placeholder {
     line-height: 1.25;
-    color: rgba(255, 255, 255, 0.6);
+    color: $grey-color;
   }
 }
 
